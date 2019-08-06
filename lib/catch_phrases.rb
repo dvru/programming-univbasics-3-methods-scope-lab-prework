@@ -9,5 +9,3 @@ def toadstool
   puts status 
 end
 
-def link 
-  phrase = "Its Dangeroud To Go Alone! Take This."
